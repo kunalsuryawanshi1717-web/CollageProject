@@ -62,5 +62,3 @@ Feel free to fork this repository and submit pull requests.
 Kunal Suryawanshi
 BCA Graduate | Aspiring Software Developer
 
-Your Name
-BCA Graduate | Aspiring Software Developer
